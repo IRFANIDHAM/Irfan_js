@@ -1,0 +1,23 @@
+{
+  "name": "berr2243",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000i\u0000r\u0000f\u0000a\u0000n\u0000\r\u0000 \u0000#\u0000 \u0000B\u0000L\u0000A\u0000 \u0000B\u0000l\u0000a\u0000 \u0000b\u0000l\u0000a\u0000\r\u0000 \u0000#\u0000 \u0000j\u0000a\u0000d\u0000j\u0000a\u0000l\u0000j\u0000d\u0000l\u0000a\u0000j\u0000d\u0000l\u0000a\u0000j\u0000d\u0000l\u0000a\u0000j\u0000d\u0000\\\u0000\r\u0000 \u0000k\u0000l\u0000j\u0000l\u0000k\u0000a\u0000d\u0000a\u0000j\u0000k\u0000d\u0000k\u0000a\u0000n\u0000d\u0000k\u0000a\u0000d\u0000k\u0000a\u0000d\u0000k\u0000a\u0000d\u0000\r\u0000 \u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IRFANIDHAM/irfan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IRFANIDHAM/irfan/issues"
+  },
+  "homepage": "https://github.com/IRFANIDHAM/irfan#readme",
+  "dependencies": {
+    "mongodb": "^6.15.0"
+  }
+}
