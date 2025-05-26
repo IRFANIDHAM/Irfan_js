@@ -13,6 +13,12 @@ const drivers =[
     vehicletype: "SUV",
     isAvailable: false,
     rating: 4.5
+   },
+   {
+    name: "Afiq Yap",
+    vehicletype: "SUV",
+    isAvailable: true,
+    rating: 3.0
    }
 ];
 
