@@ -6,7 +6,7 @@ router.get('/passengers', async (req, res) => {
   const client = new MongoClient('mongodb://localhost:27017');
   try {
     await client.connect();
-    const db = client.db('ehailingdb');
+    const db = client.db('ehailingDB');
     const users = db.collection('users');
 
     const results = await users.aggregate([
